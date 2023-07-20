@@ -1,0 +1,1 @@
+Hello, this repository is about my first Javascript course that I did 
